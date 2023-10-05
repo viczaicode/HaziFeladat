@@ -1,0 +1,9 @@
+body {
+	background-image: url(dagikutyi.png);
+}
+#nev {
+	font-weight: bold;
+	font-size: 300;
+	color: red;
+	text-align: center;
+}
